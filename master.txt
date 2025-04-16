@@ -1,0 +1,17 @@
+xmltodict 
+requests 
+pycryptodomex  
+aiofiles
+aiohttp
+TgCrypto==1.2.5
+asyncio
+pyrofork
+cloudscraper
+certifi
+bs4
+pymongo
+pytz
+motor
+yt-dlp==2024.10.22
+pyzipper==0.3.6
+aiohttp_socks==0.10.1
