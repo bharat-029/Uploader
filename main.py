@@ -40,9 +40,9 @@ credit ="@Courselelohelp_bot"
 # Initialize the bot
 bot = Client(
     "bot",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN
+    api_id=API_ID,23664819
+    api_hash=API_HASH,3853f97c662d5d08cee5f0d07361361e 
+    bot_token=BOT_TOKEN,7155313548:AAF9GsXDOxsLH-v9EToEaFelhqiZcbVfcBo
 )
 
 
